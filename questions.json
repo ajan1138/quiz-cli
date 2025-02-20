@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "text": "What is the capital of France?",
+      "choices": ["Berlin", "Paris", "Madrid", "Rome"],
+      "correct_answer": "Paris",
+      "difficulty": "starter"
+    },
+    {
+      "type": "true_false",
+      "text": "Python is a compiled language. (True/False) write only t of f " ,
+      "correct_answer": "f",
+      "difficulty": "starter"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "text": "HTML stands for Hyper Text _____ Language.",
+      "correct_answer": "Markup",
+      "difficulty": "starter"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Which of the following is a version control system?",
+      "choices": ["Git", "Node.js", "MongoDB", "React"],
+      "correct_answer": "Git",
+      "difficulty": "starter"
+    },
+    {
+      "type": "true_false",
+      "text": "JavaScript is a server-side scripting language. (True/False) Write only t or f",
+      "correct_answer": "f",
+      "difficulty": "starter"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "text": "CSS stands for Cascading Style _____ .",
+      "correct_answer": "Sheets",
+      "difficulty": "advanced"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "What is the capital of Japan?",
+      "choices": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correct_answer": "Tokyo",
+      "difficulty": "advanced"
+    },
+    {
+      "type": "true_false",
+      "text": "Kotlin is a programming language developed by Google. (True/False) Write only t or f",
+      "correct_answer": "f",
+      "difficulty": "advanced"
+    },
+    {
+      "type": "fill_in_the_blank",
+      "text": "npm stands for Node Package _____.",
+      "correct_answer": "Manager",
+      "difficulty": "advanced"
+    },
+    {
+      "type": "multiple_choice",
+      "text": "Which CSS preprocessor is widely used for styling web pages?",
+      "choices": ["Sass", "Less", "Stylus", "PostCSS"],
+      "correct_answer": "Sass",
+      "difficulty": "advanced"
+    }
+
+  ]
+}
